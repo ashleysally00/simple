@@ -7,4 +7,3 @@ Hope your day is going great - this section describes how to talk to a robot tha
 
 
 
-Please read all of the documentation carefully before you begin.
